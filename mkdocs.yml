@@ -70,7 +70,7 @@ pages:
     - The Bastion Bot: 'home.md'
   - Documentation:
     - Intro: 'docs.md'
-  - Developer:
+  - Developers:
     - Intro: 'index.md'
 
 # Development
