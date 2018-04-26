@@ -17,6 +17,7 @@ theme:
   name: 'material'
   language: 'en'
   custom_dir: 'theme'
+  favicon: favicon.ico
   logo: https://resources.bastionbot.org/logos/Bastion_Logomark_C.png
   palette:
     primary: 'Grey'
