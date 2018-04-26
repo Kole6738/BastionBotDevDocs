@@ -16,7 +16,7 @@ copyright: 'Copyright &copy; 2017-2018 - The Bastion Bot Project'
 theme:
   name: 'material'
   language: 'en'
-  # custom_dir: 'theme'
+  custom_dir: 'theme'
   palette:
     primary: 'Grey'
     accent: 'Light Blue'
