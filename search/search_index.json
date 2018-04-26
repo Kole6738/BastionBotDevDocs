@@ -1,33 +1,33 @@
 {
     "docs": [
         {
-            "location": "/home/", 
-            "text": "Redirecting\n#\n\n\nRedirecting you to the Homepage of The Bastion Bot in a few moments.\n\n\nIf you are not automatically being redirected, please visit:\n\nbastionbot.org", 
+            "location": "/home/",
+            "text": "Redirecting\u2026\n#\n\n\nRedirecting you to the Homepage of The Bastion Bot in a few moments.\n\n\nIf you are not automatically being redirected, please visit:\n\nbastionbot.org",
             "title": "The Bastion Bot"
-        }, 
+        },
         {
-            "location": "/home/#redirecting", 
-            "text": "Redirecting you to the Homepage of The Bastion Bot in a few moments.  If you are not automatically being redirected, please visit: bastionbot.org", 
+            "location": "/home/#redirecting",
+            "text": "Redirecting you to the Homepage of The Bastion Bot in a few moments.  If you are not automatically being redirected, please visit: bastionbot.org",
             "title": "Redirecting..."
-        }, 
+        },
         {
-            "location": "/docs/", 
-            "text": "Redirecting\n#\n\n\nRedirecting you to the Documentation page of The Bastion Bot in a few moments.\n\n\nIf you are not automatically being redirected, please visit:\n\ndocs.bastionbot.org", 
+            "location": "/docs/",
+            "text": "Redirecting\u2026\n#\n\n\nRedirecting you to the Documentation page of The Bastion Bot in a few moments.\n\n\nIf you are not automatically being redirected, please visit:\n\ndocs.bastionbot.org",
             "title": "Intro"
-        }, 
+        },
         {
-            "location": "/docs/#redirecting", 
-            "text": "Redirecting you to the Documentation page of The Bastion Bot in a few moments.  If you are not automatically being redirected, please visit: docs.bastionbot.org", 
+            "location": "/docs/#redirecting",
+            "text": "Redirecting you to the Documentation page of The Bastion Bot in a few moments.  If you are not automatically being redirected, please visit: docs.bastionbot.org",
             "title": "Redirecting..."
-        }, 
+        },
         {
-            "location": "/", 
-            "text": "Introduction\n#\n\n\n\n\nNote\n\n\nA cool new guide is currently being written for those who want to contribute to\nthe development of Bastion Bot.\n\n\nHold tight, this guide will make it easy to contribute to development, even for\na newbie (like the robo cats in your home).\n\n\nThis guide is currently a work-in-progress and will soon be available. So stay\ntuned.\n\n\n\n\n\n\n\nWelcome to The Bastion Bot Developer Documentation Site.\n\n\nHere you\nll find documentation on how to create commands for Bastion and contribute to the project.\n\n\nAll of our \ndocumentation is on GitHub\n\nand we would \n corrections and improvements!\n\n\n\n\n\nClick on \nNext\n at the bottom right corner, or \nclick here\n to\nhead over to the documentation to dive into creating your own custom juice.\n\n\n\n\n\nCome hang out in our \nofficial Discord server\n\nif you wanna chat with other devs, or users and see what\ns\nbeing cranked out.\n\n\nWe look forward to seeing you contributing to The Bastion Bot Project and\nimproving it!\n\n\n\n  \n\n    \nYou\nve been invited to join\n\n    \n\n    \n\n      \nThe Bastion Bot\n\n      \nbe awesome!\n\n    \n\n    \nJoin", 
+            "location": "/",
+            "text": "Introduction\n#\n\n\n\n\nNote\n\n\nA cool new guide is currently being written for those who want to contribute to\nthe development of Bastion Bot.\n\n\nHold tight, this guide will make it easy to contribute to development, even for\na newbie (like the robo cats in your home).\n\n\nThis guide is currently a work-in-progress and will soon be available. So stay\ntuned.\n\n\n\n\n\n\n\nWelcome to The Bastion Bot Developer Documentation Site.\n\n\nHere you\u2019ll find documentation on how to create commands for Bastion and contribute to the project.\n\n\nAll of our \ndocumentation is on GitHub\n\nand we would \n corrections and improvements!\n\n\n\n\n\nClick on \nNext\n at the bottom right corner, or \nclick here\n to\nhead over to the documentation to dive into creating your own custom juice.\n\n\n\n\n\nCome hang out in our \nofficial Discord server\n\nif you wanna chat with other devs, or users and see what\u2019s\nbeing cranked out.\n\n\nWe look forward to seeing you contributing to The Bastion Bot Project and\nimproving it!\n\n\n\n  \n\n    \nYou\u2019ve been invited to join\n\n    \n\n    \n\n      \nThe Bastion Bot\n\n      \nbe awesome!\n\n    \n\n    \nJoin",
             "title": "Intro"
-        }, 
+        },
         {
-            "location": "/#introduction", 
-            "text": "Note  A cool new guide is currently being written for those who want to contribute to\nthe development of Bastion Bot.  Hold tight, this guide will make it easy to contribute to development, even for\na newbie (like the robo cats in your home).  This guide is currently a work-in-progress and will soon be available. So stay\ntuned.    Welcome to The Bastion Bot Developer Documentation Site.  Here you ll find documentation on how to create commands for Bastion and contribute to the project.  All of our  documentation is on GitHub \nand we would   corrections and improvements!   Click on  Next  at the bottom right corner, or  click here  to\nhead over to the documentation to dive into creating your own custom juice.   Come hang out in our  official Discord server \nif you wanna chat with other devs, or users and see what s\nbeing cranked out.  We look forward to seeing you contributing to The Bastion Bot Project and\nimproving it!  \n   \n     You ve been invited to join \n     \n     \n       The Bastion Bot \n       be awesome! \n     \n     Join", 
+            "location": "/#introduction",
+            "text": "Note  A cool new guide is currently being written for those who want to contribute to\nthe development of Bastion Bot.  Hold tight, this guide will make it easy to contribute to development, even for\na newbie (like the robo cats in your home).  This guide is currently a work-in-progress and will soon be available. So stay\ntuned.    Welcome to The Bastion Bot Developer Documentation Site.  Here you\u2019ll find documentation on how to create commands for Bastion and contribute to the project.  All of our  documentation is on GitHub \nand we would   corrections and improvements!   Click on  Next  at the bottom right corner, or  click here  to\nhead over to the documentation to dive into creating your own custom juice.   Come hang out in our  official Discord server \nif you wanna chat with other devs, or users and see what\u2019s\nbeing cranked out.  We look forward to seeing you contributing to The Bastion Bot Project and\nimproving it!  \n   \n     You\u2019ve been invited to join \n     \n     \n       The Bastion Bot \n       be awesome! \n     \n     Join",
             "title": "Introduction"
         }
     ]

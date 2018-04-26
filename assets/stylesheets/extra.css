@@ -24,11 +24,11 @@ kbd:active {
 }
 
 /* Header Logo */
-.md-logo img {
+/* .md-logo img {
   min-width: 100px;
   width: 100%;
   height: auto;
-}
+} */
 
 /* Read nav links */
 .md-nav__link[data-md-state="blur"] {
@@ -174,7 +174,6 @@ html .md-nav--primary .md-nav__title:before {
   color: #FAFAFA !important;
 }
 
-/*nav.md-nav:not(.md-nav--secondary) .md-nav__title:not(.md-nav__title--site) {*/
 nav.md-nav:not(.md-nav--secondary) .md-nav__title:not(.md-nav__title--site) {
   color: rgba(255,255,255,1) !important;
   background-color: #111111 !important;
