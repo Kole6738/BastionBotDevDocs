@@ -1,29 +1,28 @@
 # Project information
-site_name: 'Developer Documentation - The Bastion Bot'
-site_description: 'Welcome to the Developer Documentation Website of The Bastion Bot.'
+site_name: 'Developer Documentation'
+site_description: 'Welcome to the Developer Documentation of The Bastion Bot Project.'
 site_url: 'https://dev.bastionbot.org'
 site_author: 'Sankarsan Kampa'
 
 # Repository
-repo_name: 'BastionBotDevDocs'
+repo_name: 'TheBastionBot/BastionBotDevDocs'
 repo_url: 'https://github.com/TheBastionBot/BastionBotDevDocs'
 edit_uri: edit/master/docs/
 
 # Copyright
-copyright: 'Copyright &copy; 2017 - The Bastion Bot Project'
+copyright: 'Copyright &copy; 2017-2018 - The Bastion Bot Project'
 
 # Configuration
 theme:
   name: 'material'
   language: 'en'
-  custom_dir: 'theme'
+  # custom_dir: 'theme'
   palette:
-    primary: 'grey'
-    accent: 'cyan'
+    primary: 'Grey'
+    accent: 'Light Blue'
   font:
-    text: 'Roboto'
+    text: 'Open Sans'
     code: 'Source Code Pro'
-  logo: 'assets/images/BastionLogo_Text_White.png'
   feature:
     tabs: true
 
