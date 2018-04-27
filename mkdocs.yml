@@ -73,6 +73,8 @@ pages:
     - Intro: 'docs.md'
   - Developers:
     - Intro: 'index.md'
+    - Contributing:
+      - Contributing Guidelines: 'contributing/guidelines.md'
 
 # Development
 dev_addr: '0.0.0.0:1337'
