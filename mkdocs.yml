@@ -76,6 +76,7 @@ pages:
     - Contributing:
       - Contributing Guidelines: 'contributing/guidelines.md'
       - Issues: 'contributing/issues.md'
+      - Pull Requests: 'contributing/pulls.md'
     - Code of Conduct: 'coc.md'
 
 # Development
