@@ -75,6 +75,7 @@ pages:
     - Intro: 'index.md'
     - Contributing:
       - Contributing Guidelines: 'contributing/guidelines.md'
+      - Issues: 'contributing/issues.md'
 
 # Development
 dev_addr: '0.0.0.0:1337'
