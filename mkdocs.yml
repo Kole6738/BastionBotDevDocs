@@ -76,6 +76,7 @@ pages:
     - Contributing:
       - Contributing Guidelines: 'contributing/guidelines.md'
       - Issues: 'contributing/issues.md'
+    - Code of Conduct: 'coc.md'
 
 # Development
 dev_addr: '0.0.0.0:1337'
