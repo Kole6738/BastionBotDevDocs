@@ -60,5 +60,5 @@ By making a contribution to this project, I certify that:
 
 
 <!-- Links -->
-[Code of Conduct]: coc.md 'The Bastion Bot Project - Code of Conduct'
+[Code of Conduct]: ../coc.md 'The Bastion Bot Project - Code of Conduct'
 [The Bastion Bot GitHub Organization]: https://github.com/TheBastionBot 'The Bastion Bot GitHub Organization'
