@@ -131,7 +131,7 @@ Fixes: https://github.com/nodejs/node/issues/1337
 Refs: http://eslint.org/docs/rules/space-in-parens.html
 ```
 
-If you are new to contributing to Node.js, please try to do your best at
+If you are new to contributing to this project, please try to do your best at
 conforming to these guidelines, but do not worry if you get something wrong.
 One of the existing contributors will help get things situated and the
 contributor landing the Pull Request will ensure that everything follows
@@ -171,8 +171,32 @@ that should be filled out:
 
 ```markdown
 <!--
-    Thank you for your Pull Request. Please provide a description above and
-    review the requirements below.
+    Thank you for your Pull Request. Please provide a description above and fill
+    in as much of the template below as you're able.
+-->
+
+#### Purpose of this Pull Request
+<!-- Change [ ] to [X] if a statement is true. -->
+
+- [ ] Non-code changes (e.g. documentation, strings, readme, etc.)
+- [ ] Bug fixes
+- [ ] Improvements/enhancements
+- [ ] Add a feature/command
+- [ ] Remove a feature/command
+- [ ] Add something to the core
+- [ ] Remove something from the core
+- [ ] Other, please explain:
+
+#### Possible drawbacks
+<!--
+    Are there any possible side-effects or negative impacts of the code change?
+    If yes, please, state them.
+-->
+
+#### Applicable Issues:
+<!--
+    Link any applicable Issues/PRs here. With a brief description explaining
+    why.
 -->
 
 #### Checklist
