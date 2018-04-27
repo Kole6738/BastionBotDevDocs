@@ -23,8 +23,8 @@ and we would :heart: corrections and improvements!
 
 <hr>
 
-Click on **Next** at the bottom right corner, or [click here](get-started) to
-head over to the documentation to dive into creating your own custom juice.
+Click on **Next** at the bottom right corner to head over to the documentation
+to dive into creating your own custom juice.
 
 <hr>
 
