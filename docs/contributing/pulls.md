@@ -29,7 +29,7 @@ git remote add upstream https://github.com/TheBastionBot/Bastion.git
 git fetch upstream
 ```
 
-Verify the new upstream repository you've specified for your fork.
+Verify the upstream repository that you've specified for your fork is the original repository of Bastion
 ```bash
 $ git remote -v
 origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
