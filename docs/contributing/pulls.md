@@ -22,10 +22,20 @@ and clone your fork locally and add the remote upstream branch.
 You can find specific guides in the respective repositories.
 
 ```bash
-git clone https://github.com/TheBastionBot/Bastion.git
-cd node
-git remote add upstream https://github.com/nodejs/node.git
+# Example: Bastion repository (https://github.com/TheBastionBot/Bastion.git)
+git clone https://github.com/YOUR_USERNAME/Bastion.git
+cd Bastion
+git remote add upstream https://github.com/TheBastionBot/Bastion.git
 git fetch upstream
+```
+
+Verify the upstream repository that you've specified for your fork is the original repository of Bastion
+```bash
+$ git remote -v
+origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
+origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
+upstream  https://github.com/TheBastionBot/Bastion.git (fetch)
+upstream  https://github.com/TheBastionBot/Bastion.git (push)
 ```
 
 It is recommended to configure `git` so that it knows who you are:
