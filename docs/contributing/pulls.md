@@ -34,8 +34,8 @@ Verify the new upstream repository you've specified for your fork.
 $ git remote -v
 origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (fetch)
 origin    https://github.com/YOUR_USERNAME/YOUR_FORK.git (push)
-upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (fetch)
-upstream  https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git (push)
+upstream  https://github.com/TheBastionBot/Bastion.git (fetch)
+upstream  https://github.com/TheBastionBot/Bastion.git (push)
 ```
 
 It is recommended to configure `git` so that it knows who you are:
